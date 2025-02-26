@@ -1,0 +1,96 @@
+[
+  {
+    "question": "What is the capital of France?",
+    "type": "single",
+    "options": [
+      {"text": "Paris", "correct": true},
+      {"text": "London", "correct": false},
+      {"text": "Rome", "correct": false},
+      {"text": "Berlin", "correct": false}
+    ]
+  },
+  {
+    "question": "Is Flutter developed by Google?",
+    "type": "true_false",
+    "options": [
+      {"text": "True", "correct": true},
+      {"text": "False", "correct": false}
+    ]
+  },
+  {
+    "question": "Which of the following are programming languages?",
+    "type": "multiple",
+    "options": [
+      {"text": "Python", "correct": true},
+      {"text": "JavaScript", "correct": true},
+      {"text": "HTML", "correct": false},
+      {"text": "CSS", "correct": false}
+    ]
+  },
+  {
+    "question": "What does HTTP stand for?",
+    "type": "single",
+    "options": [
+      {"text": "HyperText Transfer Protocol", "correct": true},
+      {"text": "Hyper Transfer Text Protocol", "correct": false},
+      {"text": "HyperText Transmission Protocol", "correct": false},
+      {"text": "HyperTransfer Text Protocol", "correct": false}
+    ]
+  },
+  {
+    "question": "Is Java a statically typed language?",
+    "type": "true_false",
+    "options": [
+      {"text": "True", "correct": true},
+      {"text": "False", "correct": false}
+    ]
+  },
+  {
+    "question": "Which are mobile app development frameworks?",
+    "type": "multiple",
+    "options": [
+      {"text": "Flutter", "correct": true},
+      {"text": "React Native", "correct": true},
+      {"text": "Bootstrap", "correct": false},
+      {"text": "jQuery", "correct": false}
+    ]
+  },
+  {
+    "question": "What is the output of 2 + 2 in Python?",
+    "type": "single",
+    "options": [
+      {"text": "4", "correct": true},
+      {"text": "22", "correct": false},
+      {"text": "Error", "correct": false},
+      {"text": "None", "correct": false}
+    ]
+  },
+  {
+    "question": "HTML is used for structuring web pages.",
+    "type": "true_false",
+    "options": [
+      {"text": "True", "correct": true},
+      {"text": "False", "correct": false}
+    ]
+  },
+  {
+    "question": "Which of the following are front-end frameworks?",
+    "type": "multiple",
+    "options": [
+      {"text": "Angular", "correct": true},
+      {"text": "Vue.js", "correct": true},
+      {"text": "Django", "correct": false},
+      {"text": "Flask", "correct": false}
+    ]
+  },
+  {
+    "question": "Which company created the iPhone?",
+    "type": "single",
+    "options": [
+      {"text": "Apple", "correct": true},
+      {"text": "Samsung", "correct": false},
+      {"text": "Google", "correct": false},
+      {"text": "Microsoft", "correct": false}
+    ]
+  }
+]
