@@ -1,0 +1,11 @@
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.melos
+.metadata
+.packages
+*.iml
+.DS_Store
+android/.gradle/
+ios/Pods/
+pubspec.lock
