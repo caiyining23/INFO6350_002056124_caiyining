@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <type id="android" />
+  </component>
+<<<<<<< HEAD
+  <component name="ProjectRootManager">
+=======
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_23" default="true" project-jdk-name="openjdk-23" project-jdk-type="JavaSDK">
+>>>>>>> a8b9a58 (Add exercise4 Flutter project)
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
