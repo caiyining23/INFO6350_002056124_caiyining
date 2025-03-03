@@ -7,6 +7,7 @@ plugins {
 
 android {
     namespace = "com.example.quizapp"
+    namespace = "com.example.exercise4"
     compileSdk = flutter.compileSdkVersion
     ndkVersion = flutter.ndkVersion
 
@@ -21,7 +22,11 @@ android {
 
     defaultConfig {
         // TODO: Specify your own unique Application ID (https://developer.android.com/studio/build/application-id.html).
+<<<<<<< HEAD
         applicationId = "com.example.quizapp"
+=======
+        applicationId = "com.example.exercise4"
+>>>>>>> a8b9a58 (Add exercise4 Flutter project)
         // You can update the following values to match your application needs.
         // For more information, see: https://flutter.dev/to/review-gradle-config.
         minSdk = flutter.minSdkVersion

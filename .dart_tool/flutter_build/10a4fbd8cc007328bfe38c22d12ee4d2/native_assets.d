@@ -1,0 +1,1 @@
+ /Users/caiyining/IdeaProjects/exercise4/.dart_tool/flutter_build/10a4fbd8cc007328bfe38c22d12ee4d2/native_assets.yaml: 
